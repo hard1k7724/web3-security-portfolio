@@ -4,7 +4,8 @@
 
 📧 Email: hardiksethno1@gmail.com  
 🐦 Twitter: @hard1k77
-💻 GitHub: https://github.com/hard1k7724 
+💻 GitHub: https://github.com/hard1k7724
+Telegram: Hardik
 
 ---
 
@@ -26,11 +27,11 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 | Recall | #9 | 
 | Chainlink Rewards | #8 | 
 | SummerFi Governance | #8 | 
-| GTE Spot & CLOB Router | #15 | 
+| GTE Spot & CLOB Router | #12 | 
 | SukukFi | #20 | 
 | Metropolis LB Vaults | #32 | 
 | Zaros (Part 2) | #37 | 
-| StakeUp Staking | #25 | 
+| StakeUp Staking | #22 | 
 | Story Protocol | #51 | 
 | RAAC | #99 | 
 | Sorella Labs | — | 
