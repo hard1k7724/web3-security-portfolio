@@ -21,25 +21,25 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 
 ## 🏆 Public Audit Contests
 
-| Protocol | Rank |
-|--------|---------|
-| Merkl | #2 | 
-| Recall | #9 | 
-| Chainlink Rewards | #8 | 
-| SummerFi Governance | #8 | 
-| GTE Spot & CLOB Router | #12 | 
-| SukukFi | #20 | 
-| Metropolis LB Vaults | #32 | 
-| Zaros (Part 2) | #37 | 
-| StakeUp Staking | #22 | 
-| Story Protocol | #51 | 
-| RAAC | #99 | 
-| Sorella Labs | — | 
+| Protocol | Platform | Rank |
+|--------|---------|---------|
+| Merkl | Code4rena | #2 |
+| Recall | Code4rena| #9 |
+| Chainlink Rewards | Code4rena | #7 | 
+| SummerFi Governance | Sherlock | #8 | 
+| GTE Spot & CLOB Router | Code4rena | #12 | 
+| SukukFi | Code4rena | #20 | 
+| StakeUp Staking | Cantina | #22 |
+| Metropolis LB Vaults | Cantina | #32 | 
+| Zaros (Part 2) | Cyfrin | #37 | 
+| Story Protocol | Cantina | #51 | 
+| RAAC | Cyfrin | #99 |
+| Sorella Labs | Cantina | - | 
 
 
 ---
 
-## 🎯 CTFs & Practice
+## 🎯 CTFs
 Few levels of:
 - Ethernaut 
 - Damn Vulnerable DeFi 
