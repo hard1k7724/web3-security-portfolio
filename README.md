@@ -12,7 +12,7 @@ Telegram: Hardik
 ## 👋 About Me
 
 Hi, I’m a Web3 and blockchain security researcher with **20+ High/Medium findings in public contests** and **multiple top-10 placements** (~**$5k USDC earned**).
-I primarily audit **Solidity/EVM smart contracts** and am also trying to learn and get into **Move-based audits**. I enjoy breaking complex DeFi systems/protocols and understanding various bug-classes as well.
+I primarily audit **Solidity/EVM based smart contracts/codebases** and am also trying to learn and get into **Move-based audits**. I enjoy breaking complex DeFi systems/protocols and understanding various bug-classes as well.
 
 Started getting into Web3 security at the **end of 2024**, and still continously hustling to get better and grow every day since 
 
