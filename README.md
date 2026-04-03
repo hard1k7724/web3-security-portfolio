@@ -24,6 +24,7 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 | Protocol | Platform | Rank |
 |--------|---------|---------|
 | Merkl | Code4rena | #2 |
+| Intuition | Code4rena | #3 |
 | Recall | Code4rena| #9 |
 | Chainlink Rewards | Code4rena | #7 | 
 | SummerFi Governance | Sherlock | #8 | 
