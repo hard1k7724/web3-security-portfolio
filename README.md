@@ -11,8 +11,8 @@ Telegram: Hardik
 
 ## 👋 About Me
 
-Hi, I’m a Web3 and blockchain security researcher with **20+ High/Medium findings in public contests** and **multiple top-10 placements** (~**$5k USDC earned**).
-I primarily audit **Solidity/EVM based smart contracts/codebases** and am also trying to learn and get into **Move-based audits**. I enjoy breaking complex DeFi systems/protocols and understanding various bug-classes as well.
+Hi, I’m Hard1k, a Web3 and blockchain security researcher with **25+ High/Medium findings in public contests** and **multiple top-10 placements** (~**$5k USDC earned**).
+I primarily audit **Solidity/EVM based smart contracts/codebases** and currently, am also trying to learn and get into **Move-based audits**. I enjoy breaking complex DeFi systems/protocols and understanding various bug-classes as well.
 
 Started getting into Web3 security at the **end of 2024**, and still continously hustling to get better and grow every day since 
 
@@ -35,6 +35,8 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 | Zaros (Part 2) | Cyfrin | #37 | 
 | Story Protocol | Cantina | #51 | 
 | RAAC | Cyfrin | #99 |
+| Injective | Code4rena | awaiting result |
+| Rujira | Code4rena | - |
 | Sorella Labs | Cantina | - | 
 
 
@@ -57,7 +59,7 @@ Few levels of:
 ## 🚧 Currently Working On
 
 - Trying to learn about Move smart contract Audits
-- Improving my understanding of heavy math based complex codebases like AMMs
+- Improving my understanding of heavy math based complex codebases like AMMs / CLAMMS
 
 ---
 
