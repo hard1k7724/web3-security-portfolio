@@ -49,15 +49,8 @@ Few levels of:
 
 ---
 
-## 📚 Education
-
-- Diploma in Computer Applications  
-- Bachelor’s in English (Hons)
-
----
-
 ## 🚧 Currently Working On
-
+- L1 Blockchains/Infra auditing
 - Trying to learn about Move smart contract Audits
 - Improving my understanding of heavy math based complex codebases like AMMs / CLAMMS
 
