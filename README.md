@@ -12,7 +12,7 @@ Telegram: Hardik
 ## 👋 About Me
 
 Hi, I’m Hard1k, a Web3 and blockchain security researcher with **25+ High/Medium findings in public contests** and **multiple top-10 placements** (~**$5k USDC earned**).
-I primarily audit **Solidity/EVM based smart contracts/codebases** and currently, am also trying to learn and get into **Move-based audits**. Along with that I am also trying to get my hands dirty on L1 blockchains/infra audits as well. I enjoy breaking complex DeFi systems/protocols and understanding various bug-classes as well.
+I primarily audit **Solidity/EVM based smart contracts/codebases** and currently, am also trying to learn and get into **Move-based audits**. and rust as well. Along with that I am also trying to get my hands dirty on L1 blockchains/infra audits as well. I enjoy breaking complex DeFi systems/protocols and understanding various bug-classes as well.
 
 Started getting into Web3 security at the **end of 2024**, and still continously hustling to get better and grow every day since 
 
@@ -51,7 +51,7 @@ Few levels of:
 
 ## 🚧 Currently Working On
 - L1 Blockchains/Infra auditing
-- Trying to learn about Move smart contract Audits
+- Trying to learn about Move and Rust smart contract Audits
 - Improving my understanding of heavy math based complex codebases like AMMs / CLAMMS
 
 ---
