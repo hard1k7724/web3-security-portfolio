@@ -11,7 +11,7 @@ Telegram: Hardik
 
 ## 👋 About Me
 
-Hi, I’m Hard1k, a Web3 and blockchain security researcher with **25+ High/Medium findings in public contests** and **multiple top-10 placements** (~**$5k USDC earned**).
+Hi, I’m Hard1k, a Web3 and blockchain security researcher with **25+ High/Medium findings in public contests** and **multiple top-10 placements** (~**$6k USDC earned**).
 I primarily audit **Solidity/EVM based smart contracts/codebases** and currently, am also trying to learn and get into **Move-based audits**. and rust as well. Along with that I am also trying to get my hands dirty on L1 blockchains/infra audits as well. I enjoy breaking complex DeFi systems/protocols and understanding various bug-classes as well.
 
 Started getting into Web3 security at the **end of 2024**, and still continously hustling to get better and grow every day since 
@@ -19,7 +19,7 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 
 ---
 
-## 🏆 Public Audit Contests
+## 🏆 Audits 
 
 | Protocol | Platform | Rank |
 |--------|---------|---------|
@@ -28,7 +28,9 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 | Recall | Code4rena| #9 |
 | Chainlink Rewards | Code4rena | #7 | 
 | SummerFi Governance | Sherlock | #8 | 
+| Polygon Heimdall-v2 | Private Sherlock | Private NDA |
 | GTE Spot & CLOB Router | Code4rena | #12 | 
+| SpecSiege | CodeSpect | #12 |
 | SukukFi | Code4rena | #20 | 
 | Clear-macro-Vaults | Sherlock | Airdrop(No H/Ms found in the contest) |
 | StakeUp Staking | Cantina | #22 |
@@ -36,7 +38,6 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 | Zaros (Part 2) | Cyfrin | #37 | 
 | Story Protocol | Cantina | #51 | 
 | RAAC | Cyfrin | #99 |
-| Injective | Code4rena | awaiting result |
 | Rujira | Code4rena | - |
 | Sorella Labs | Cantina | - | 
 
