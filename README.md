@@ -38,6 +38,9 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 | Zaros (Part 2) | Cyfrin | #37 | 
 | Story Protocol | Cantina | #51 | 
 | RAAC | Cyfrin | #99 |
+| Avon-contracts | Cantina | 1H |
+| Telcoin-network | Cantina | 2H |
+|dre-usd | Sherlock | Airdrop(No H/Ms found in the contest) |
 | Rujira | Code4rena | - |
 | Sorella Labs | Cantina | - | 
 
