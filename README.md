@@ -11,7 +11,7 @@ Telegram: Hardik
 
 ## 👋 About Me
 
-Hi, I’m Hard1k, a Web3 and blockchain security researcher with **25+ High/Medium findings in public contests** and **multiple top-10 placements** and a few **top-5 rankings** as well(~**$6k USDC earned**). I am specialized in manual audits + followed by AI driven audits to maximize the coverage as efficiently as possible.
+Hi, I’m Hard1k, a Web3 and blockchain security researcher with **50+ High/Medium findings across different public and private audits** and I also have **won or #1 rank** in a few public contests, **multiple top-5 placements** and **top-10 rankings** as well(with > **9k USDC earned**). I am specialized in manual audits + followed by AI assisted driven audits to maximize the coverage and depth across codebases as efficiently as possible.
 I primarily audit **Solidity/EVM based smart contracts/codebases** and currently, am also trying to learn and get into **Move-based audits**. and rust as well. Along with that I am also trying to get my hands dirty on L1 blockchains/infra audits as well. I enjoy breaking complex DeFi systems/protocols and understanding various bug-classes as well.
 
 Started getting into Web3 security at the **end of 2024**, and still continously hustling to get better and grow every day since 
@@ -25,10 +25,15 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 |--------|---------|---------|
 | Merkl | Code4rena | #2 |
 | Intuition | Code4rena | #3 |
+| Polygon Heimdall-v2 | Private Sherlock Audit engine | Private NDA |
+| Aerodrome | Public Sherlock Audit Engine engagement | #10 with $1200 USDC in winnings |
+| Uniswap (October) | Sherlock private Audit Engine engagement | Private/Closed communication |
+| Kamino MetaVault(Solana) | Sherlock private Audit Engine engagement | Private/close communication |
+| Uniswap (November) | Sherlock private Audit Engine engagement | Private/closed communication |
+| Arcadia | Public Sherlock Audit Engine engagement |  |
 | Recall | Code4rena| #9 |
 | Chainlink Rewards | Code4rena | #7 | 
 | SummerFi Governance | Sherlock | #8 | 
-| Polygon Heimdall-v2 | Private Sherlock | Private NDA |
 | GTE Spot & CLOB Router | Code4rena | #12 | 
 | SpecSiege | CodeSpect | #12 |
 | SukukFi | Code4rena | #20 | 
