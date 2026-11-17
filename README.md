@@ -23,14 +23,15 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 
 | Protocol | Platform | Rank |
 |--------|---------|---------|
-| Merkl | Code4rena | #2 |
+| Merkl | Code4rena | #1 |
 | Intuition | Code4rena | #3 |
-| Polygon Heimdall-v2 | Private Sherlock Audit engine | Private NDA |
 | Aerodrome | Public Sherlock Audit Engine engagement | #10 with $1200 USDC in winnings |
+| Arcadia | Public Sherlock Audit Engine engagement |  |
+| Uniswap (November) | Sherlock private Audit Engine engagement | Private/closed communication |
 | Uniswap (October) | Sherlock private Audit Engine engagement | Private/Closed communication |
 | Kamino MetaVault(Solana) | Sherlock private Audit Engine engagement | Private/close communication |
-| Uniswap (November) | Sherlock private Audit Engine engagement | Private/closed communication |
-| Arcadia | Public Sherlock Audit Engine engagement |  |
+| Limit Order | Sherlock private Audit Engine engagement | Private/closed communication |
+| Polygon Heimdall-v2 | Sherlock private Audit Engine engagement | Private/closed communication |
 | Recall | Code4rena| #9 |
 | Chainlink Rewards | Code4rena | #7 | 
 | SummerFi Governance | Sherlock | #8 | 
