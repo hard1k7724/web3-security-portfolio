@@ -19,7 +19,7 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 
 ---
 
-## 🏆 Audits 
+## Public and Private Audits 
 
 | Protocol | Platform | Rank |
 |--------|---------|---------|
