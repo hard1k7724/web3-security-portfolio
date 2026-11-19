@@ -60,9 +60,8 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 ---
 
 ## 🚧 Currently Working On
-- Improving and polishing my AI skills to audit to stay updated with the trend and work more efficiently to maximize coverage.
-- L1 Blockchains/Infra auditing
-- Trying to learn about Move and Rust smart contract Audits.
+- Constantly improvising and polishing my AI assisted auditing workflow and manual review skills as well
+- Learning solana security and audits
 
 ---
 
