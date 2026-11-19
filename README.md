@@ -24,7 +24,7 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 | Protocol | Platform | Rank |
 |--------|---------|---------|
 | Merkl | Code4rena | #1 |
-| Intuition | Code4rena | #3 |
+| Intuition | Code4rena | #2 |
 | Aerodrome | Public Sherlock Audit Engine engagement | #10 with $1200 USDC in winnings |
 | Arcadia | Public Sherlock Audit Engine engagement |  |
 | Uniswap (November) | Sherlock private Audit Engine engagement | Private/closed communication |
