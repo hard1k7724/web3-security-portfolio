@@ -11,7 +11,7 @@ Telegram: Hardik
 
 ## 👋 About Me
 
-Hi, I’m Hard1k, a Web3 and blockchain security researcher with **100+ High/Medium findings across different public and private audits** and I also have **won or #1 rank** in a few public contests, **multiple top-5 placements** and **top-10 rankings** as well(with > **9k USDC earned**). I am specialized in manual audits + followed by AI assisted driven audits to maximize the coverage and depth across codebases as efficiently as possible.
+Hi, I’m Hard1k, a Web3 and blockchain security researcher with **100+ High/Medium findings across different public and private audits** and I also have **won or #1 rank** in a few public contests, **multiple top-5 placements** and **top-10 rankings** as well(with **$10k+ USDC earned**). I am specialized in manual audits + followed by AI assisted workflow driven audits to maximize the coverage and depth across codebases as efficiently as possible.
 I primarily audit **Solidity/EVM based smart contracts/codebases** and currently, am also trying to learn and get into **Move-based audits**. and rust as well. Along with that I am also trying to get my hands dirty on L1 blockchains/infra audits as well. I enjoy breaking complex DeFi systems/protocols and understanding various bug-classes as well.
 
 Started getting into Web3 security at the **end of 2024**, and still continously hustling to get better and grow every day since 
