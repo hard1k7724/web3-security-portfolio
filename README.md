@@ -34,7 +34,7 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 | Polygon Heimdall-v2 | Sherlock private Audit Engine engagement | Private/closed communication |
 | Recall | Code4rena| #9 |
 | Chainlink Rewards | Code4rena | #7 | 
-| SummerFi Governance | Sherlock | #8 | 
+| SummerFi Governance | Sherlock | #7 | 
 | GTE Spot & CLOB Router | Code4rena | #12 | 
 | SpecSiege | CodeSpect | #12 |
 | SukukFi | Code4rena | #20 | 
