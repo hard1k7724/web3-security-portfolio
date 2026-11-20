@@ -37,6 +37,7 @@ Started getting into Web3 security at the **end of 2024**, and still continously
 | SummerFi Governance | Sherlock | #7 | 
 | GTE Spot & CLOB Router | Code4rena | #12 | 
 | SpecSiege | CodeSpect | #12 |
+| Revert V4 lend | Cantina |  |
 | SukukFi | Code4rena | #20 | 
 | Clear-macro-Vaults | Sherlock | Airdrop(No H/Ms found in the contest) |
 | StakeUp Staking | Cantina | #22 |
